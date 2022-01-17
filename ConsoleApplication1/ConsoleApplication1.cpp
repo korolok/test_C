@@ -7,7 +7,7 @@ int main()
 	int C;
 	printf("How many meters? \n");
 	scanf("%d", &I);
-	J = 100 * I;
+	J = 100 * I
 	printf("%d meters contain %d centimeters \n", I, J);
 	C = getch();
 }
