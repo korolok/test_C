@@ -8,7 +8,7 @@
 int main()
 {
 	setlocale(LC_ALL, "Russian");
-    printf("Hello world!\n");
+    printf("Привет мир!\n");
 	char qwerty[10];
 	fgets(qwerty, 10, stdin);
 	int num = atoi(qwerty);
